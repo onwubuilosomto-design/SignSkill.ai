@@ -1,0 +1,6 @@
+{
+  "name": "SignLingo AI",
+  "description": "Interactive AI-powered American Sign Language practice app with real-time hand gesture grading and gamification.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
